@@ -88,7 +88,7 @@ Analyzes fraud cases and fraud amounts across:
 
 ## 🖼️ Dashboard Preview
 
-Dashboard (2).png
+![Dashboard](Dashboard (2).png)
 
 ---
 
