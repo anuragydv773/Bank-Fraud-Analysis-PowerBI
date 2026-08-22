@@ -88,7 +88,9 @@ Analyzes fraud cases and fraud amounts across:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](Dashboard (2).png)
+## 📊 Dashboard Preview
+
+![Bank Fraud Analysis Dashboard](Dashboard/Dashboard (2).png)
 
 ---
 
